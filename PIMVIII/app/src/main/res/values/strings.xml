@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PIM VIII</string>
+    <string name="insira_o_cep">Insira o CEP</string>
+    <string name="endere_o">Endereço</string>
+    <string name="cep">CEP</string>
+    <string name="bairro">Bairro</string>
+    <string name="uf">UF</string>
+    <string name="nome_da_rua">Nome da Rua</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="cidade">Cidade</string>
+    <string name="nome_da_cidade">Nome da Cidade</string>
+    <string name="sigla_do_estado_ex_sp">Sigla do Estado. Ex.: SP</string>
+    <string name="nome_do_bairro">Nome do Bairro</string>
+    <string name="celular">Celular</string>
+    <string name="telefone_fixo">Telefone Fixo</string>
+    <string name="cpf">CPF</string>
+    <string name="insira_o_seu_cpf">Insira o seu CPF</string>
+    <string name="cadastro_pessoal">Cadastro Pessoal</string>
+    <string name="dados_pessoais">Dados Pessoais</string>
+    <string name="nome">Nome</string>
+    <string name="insira_o_seu_nome">Insira o seu nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="apagar">Apagar</string>
+    <string name="ola">( )______-_____</string>
+    <string name="ol1">( )______-_____</string>
+</resources>

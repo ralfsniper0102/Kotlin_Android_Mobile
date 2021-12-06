@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="endere_o">Endereço</string>
+    <string name="cep">CEP</string>
+    <string name="bairro">Bairro</string>
+    <string name="uf">UF</string>
+    <string name="nome_da_rua">Nome da Rua</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="cidade">Cidade</string>
+    <string name="nome_da_cidade">Nome da Cidade</string>
+    <string name="sigla_do_estado_ex_sp">Sigla do Estado. Ex.: SP</string>
+    <string name="nome_do_bairro">Nome do Bairro</string>
+    <string name="celular">Celular</string>
+    <string name="telefone_fixo">Telefone Fixo</string>
+    <string name="cpf">CPF</string>
+</resources>
